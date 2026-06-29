@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "cliente": "Padaria Pão Quente",
+    "assunto": "Erro ao emitir nota fiscal no sistema",
+    "canal": "WhatsApp",
+    "prioridade": "alta",
+    "status": "aberto",
+    "data_abertura": "2026-06-10",
+    "responsavel": "Felipe Macedo"
+  },
+  {
+    "id": 2,
+    "cliente": "Salão Beleza Pura",
+    "assunto": "Dúvida sobre agendamento online",
+    "canal": "telefone",
+    "prioridade": "baixa",
+    "status": "resolvido",
+    "data_abertura": "2026-06-11",
+    "responsavel": "Ana Souza"
+  },
+  {
+    "id": 3,
+    "cliente": "Mercadinho do Bairro",
+    "assunto": "Sistema lento no horário de pico",
+    "canal": "email",
+    "prioridade": "media",
+    "status": "em_andamento",
+    "data_abertura": "2026-06-12",
+    "responsavel": "Felipe Macedo"
+  },
+  {
+    "id": 4,
+    "cliente": "Oficina do Zé",
+    "assunto": "Solicitação de relatório mensal de clientes",
+    "canal": "WhatsApp",
+    "prioridade": "baixa",
+    "status": "aberto",
+    "data_abertura": "2026-06-12",
+    "responsavel": "Carlos Lima"
+  },
+  {
+    "id": 5,
+    "cliente": "Pet Shop Amigo Fiel",
+    "assunto": "Falha no envio de lembretes de vacina",
+    "canal": "email",
+    "prioridade": "alta",
+    "status": "em_andamento",
+    "data_abertura": "2026-06-13",
+    "responsavel": "Ana Souza"
+  },
+  {
+    "id": 6,
+    "cliente": "Lanchonete Sabor Caseiro",
+    "assunto": "Pedido de integração com delivery",
+    "canal": "telefone",
+    "prioridade": "media",
+    "status": "aberto",
+    "data_abertura": "2026-06-14",
+    "responsavel": "Felipe Macedo"
+  },
+  {
+    "id": 7,
+    "cliente": "Livraria Página Viva",
+    "assunto": "Recuperação de senha do painel administrativo",
+    "canal": "WhatsApp",
+    "prioridade": "baixa",
+    "status": "resolvido",
+    "data_abertura": "2026-06-15",
+    "responsavel": "Carlos Lima"
+  },
+  {
+    "id": 8,
+    "cliente": "Academia Corpo em Movimento",
+    "assunto": "Cobrança duplicada na mensalidade de um aluno",
+    "canal": "email",
+    "prioridade": "alta",
+    "status": "em_andamento",
+    "data_abertura": "2026-06-16",
+    "responsavel": "Ana Souza"
+  },
+  {
+    "id": 9,
+    "cliente": "Floricultura Jardim Secreto",
+    "assunto": "Treinamento para uso do módulo de estoque",
+    "canal": "telefone",
+    "prioridade": "media",
+    "status": "aberto",
+    "data_abertura": "2026-06-17",
+    "responsavel": "Felipe Macedo"
+  },
+  {
+    "id": 10,
+    "cliente": "Barbearia Navalha de Ouro",
+    "assunto": "App não exibe horários disponíveis",
+    "canal": "WhatsApp",
+    "prioridade": "alta",
+    "status": "aberto",
+    "data_abertura": "2026-06-18",
+    "responsavel": "Carlos Lima"
+  },
+  {
+    "id": 11,
+    "cliente": "Restaurante Tempero da Vó",
+    "assunto": "Solicitação de backup dos dados de clientes",
+    "canal": "email",
+    "prioridade": "media",
+    "status": "resolvido",
+    "data_abertura": "2026-06-19",
+    "responsavel": "Felipe Macedo"
+  },
+  {
+    "id": 12,
+    "cliente": "Loja de Roupas Estilo Único",
+    "assunto": "Erro 500 ao finalizar venda no caixa",
+    "canal": "WhatsApp",
+    "prioridade": "alta",
+    "status": "em_andamento",
+    "data_abertura": "2026-06-20",
+    "responsavel": "Ana Souza"
+  }
+]
