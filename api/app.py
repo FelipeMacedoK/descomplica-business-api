@@ -13,6 +13,10 @@ from flask import Flask, jsonify
 
 app = Flask(__name__)
 
+# Mantém acentos legíveis no JSON (ex.: "Pão Quente") em vez de escapar
+# para \uXXXX. Sem isso, o Flask serializa caracteres não-ASCII escapados.
+app.json.ensure_ascii = False
+
 VERSAO = "1.0.0"
 
 # Caminho do JSON externo, relativo a este arquivo (funciona local e em container)
