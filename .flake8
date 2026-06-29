@@ -1,0 +1,5 @@
+[flake8]
+# Limite de linha um pouco maior que o padrão (79) para acomodar docstrings.
+max-line-length = 100
+# Pastas que não devem ser analisadas.
+exclude = .git,__pycache__,.venv,venv,.pytest_cache
